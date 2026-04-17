@@ -40,7 +40,7 @@ A multi-user blogging platform with content moderation and commenting system.
 
 ---
 
-### 3. Web Automation & Analysis Platform (Flask)
+### 3. Integrated Web Recon And Exploitation Engine (Flask)
 
 A modular automation platform that executes Python scripts and generates analytical reports.
 
@@ -54,7 +54,7 @@ A modular automation platform that executes Python scripts and generates analyti
 <img src="web_recon_demo/image1.png" width="700">
 
 [Watch Demo](web_recon_demo/video.mp4)  
-[View Project](https://github.com/hackwithhimanshu/web_automation_and_analysis_platform)
+[View Project](https://github.com/hackwithhimanshu/integrated_web_recon_and_exploitation_engine)
 
 ---
 
